@@ -131,6 +131,11 @@ margin-top: -360px;
 }
 .okhir
 {
+    color: white;
+    display: flex;
+    padding-top: 100px;
+    padding-left: 200px;
+    gap: 100px;
     margin-top: -4px;
  height: 400px;
  width: 100%;
